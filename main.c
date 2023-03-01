@@ -4,7 +4,6 @@
 
 int main()
 {
-    int storageSpace = 245;
-    mainMenu(&storageSpace);
+    mainMenu();
     return 0;
 }
