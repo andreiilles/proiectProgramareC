@@ -2,6 +2,7 @@
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
         "conio.h": "c",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "meniu.h": "c"
     }
 }
